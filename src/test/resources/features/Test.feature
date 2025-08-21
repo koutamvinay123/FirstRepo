@@ -1,4 +1,4 @@
-Feature: Google Search
+Feature: Google Search test
 
   Scenario: Search for Cucumber BDD
     Given I am on Google homepage
